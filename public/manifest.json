@@ -1,0 +1,8 @@
+{
+  "short_name": "Wrapped TICO",
+  "name": "Wrapped TICO",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#a8a8a8"
+}
